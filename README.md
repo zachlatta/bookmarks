@@ -14,4 +14,4 @@ Different command-line utilities I'm either using or should be using.
 
 # Go
 
-* [mini-profiler](github.com/MiniProfiler/go)
+* [mini-profiler](https://github.com/MiniProfiler/go)
