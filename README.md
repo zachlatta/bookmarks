@@ -3,7 +3,7 @@ command-line-utilites
 
 Different command-line utilities I'm either using or should be using.
 
-# Tools
+## Tools
 
 * Version control - [git](http://git-scm.com/)
 * Text editing - [vim](http://www.vim.org/)
@@ -12,10 +12,10 @@ Different command-line utilities I'm either using or should be using.
 * Email - [sup](http://supmua.org/)
 * Shell - [fish](http://fishshell.com/)
 
-# Go
+## Go
 
 * [mini-profiler](https://github.com/MiniProfiler/go)
 
-# Websites
+## Websites
 
 * http://flatuicolors.com/
