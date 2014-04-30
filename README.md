@@ -1,4 +1,4 @@
-# bookmarks
+# bookmarks ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/bookmarks/readme?pixel)
 
 Different command-line utilities I'm either using or should be using.
 
