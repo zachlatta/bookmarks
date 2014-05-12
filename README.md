@@ -18,3 +18,4 @@ Different command-line utilities I'm either using or should be using.
 ## Websites
 
 * http://flatuicolors.com/
+* http://www.hemingwayapp.com/
