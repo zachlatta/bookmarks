@@ -15,6 +15,10 @@ Different command-line utilities I'm either using or should be using.
 
 * [mini-profiler](https://github.com/MiniProfiler/go)
 
+## Rails
+
+* [quill-rails](https://github.com/the-robear/quill-rails)
+
 ## Websites
 
 * http://flatuicolors.com/
