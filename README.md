@@ -2,7 +2,7 @@
 
 Different command-line utilities I'm either using or should be using.
 
-## Tools
+### Tools
 
 * Version control - [git](http://git-scm.com/)
 * Text editing - [vim](http://www.vim.org/)
@@ -11,15 +11,15 @@ Different command-line utilities I'm either using or should be using.
 * Email - [sup](http://supmua.org/)
 * Shell - [fish](http://fishshell.com/)
 
-## Go
+### Go
 
 * [mini-profiler](https://github.com/MiniProfiler/go)
 
-## Rails
+### Rails
 
 * [quill-rails](https://github.com/the-robear/quill-rails)
 
-## Websites
+### Websites
 
 * http://flatuicolors.com/
 * http://www.hemingwayapp.com/
